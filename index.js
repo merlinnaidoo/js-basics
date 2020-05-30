@@ -1,2 +1,3 @@
 //js code
-console.log('hello world');
+let name = "Merlin"
+console.log('hello world again ' + name);
